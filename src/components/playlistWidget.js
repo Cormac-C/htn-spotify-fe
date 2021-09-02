@@ -12,6 +12,7 @@ export default class PlaylistWidget extends Component {
           frameborder="0"
           allowtransparency="true"
           allow="encrypted-media"
+          title="spotify"
         ></iframe>
       </div>
     );
